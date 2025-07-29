@@ -15,8 +15,8 @@ title                    : "QVO·VADIS·ACADEMIA"
 title_separator          : "-"
 name                     : &name "Editor"
 description              : &description "A mock journal: mocking hypocrisy in academia, in all seriousness."
-url                      : https://qvo.vadis.academia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://qvo-vadis-academia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "/qvo.vadis.academia.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "QVO-VADIS-ACADEMIA/qvo.vadis.academia.github.io"
 
 
