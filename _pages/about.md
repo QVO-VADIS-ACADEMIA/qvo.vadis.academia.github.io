@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "QVO·VADIS·ACADEMIA is a mock journal: mocking hypocrisy in academia, in all seriousness."
+title: "QVO·VADIS·ACADEMIA is a mock journal: <br> mocking hypocrisy in academia,<br> in all seriousness."
 author_profile: true
 redirect_from: 
   - /about/
