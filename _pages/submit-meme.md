@@ -6,6 +6,7 @@ permalink: /submit-meme/
 <div style="padding: 40px;">
 <div style="font-size: 20px;">
   <p>Sometimes a meme speaks a thousand words.  <br><br> Share your favourite academic memes at <a href="mailto:qvo.vadis.academia@gmail.com?subject=[MEME]">qvo.vadis.academia@gmail.com</a>, or use the meme submission form below.</p>
+</div>
 
 <!-- Cognito Form Embed Code -->
 <div class="submit-section" style="font-size: 20px;">
@@ -13,5 +14,5 @@ permalink: /submit-meme/
 </div>
 
 </div>
-</div>
+
 
