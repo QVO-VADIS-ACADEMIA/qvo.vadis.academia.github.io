@@ -5,27 +5,30 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<head>
+  <link rel="preload" href="{{ site.baseurl }}/assets/css/main.css" as="style" />
+  <style>
+    body {
+      background-color: white;
+      color: black;
+    }
+    /* You can target other elements too here if needed */
+  </style>
+  {% include head.html %}
+  {% include head/custom.html %}
+</head>
 
-  <body>
-
-    {% include browser-upgrade.html %}
+ <body>
+  <div class="masthead">
     {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
+  </div>
+  {{ content }}
+  <div class="page__footer">
+    <footer>
+      {% include footer/custom.html %}
+      {% include footer.html %}
+    </footer>
+  </div>
+</body>
 </html>

@@ -1,0 +1,122 @@
+/* Apply default styles before everything else 
+
+body {
+  font-family: "Times New Roman", Times, serif !important;
+}
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman", Times, serif !important;
+}
+/* Apply Times New Roman font to the entire header */
+header, h1, h2, .site-title, .site-description {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Apply Times New Roman font to navigation links */
+nav a, .nav-link, .site-nav a {
+  font-family: "Times New Roman", Times, serif !important;
+}
+/* Hide the theme toggle button */
+.theme-icon {
+  display: none !important;
+}
+/* Set font for author, location, etc. */
+.author, .location, .meta-info, .post-meta {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Apply Times New Roman font to author bio and other author information */
+.author__content .author__bio,
+.author__content .author__name,
+.author__content .author__location,
+.author__content .author__employer,
+.author__content .author__email {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Apply Times New Roman font to author URLs and social media links */
+.author__urls-wrapper .author__urls.social-icons .author__desktop {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Apply Times New Roman font to author social media links */
+.author__urls-wrapper .author__urls.social-icons li a {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Apply Times New Roman font to author social media links */
+.author__urls-wrapper .author__urls.social-icons li a {
+  font-family: "Times New Roman", Times, serif !important;
+}
+/* Apply Times New Roman to the entire body */
+body {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Masthead (nav bar) text */
+.masthead {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Footer text */
+.page__footer footer {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Social icons section */
+.page__footer-follow ul.social-icons li strong {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+/* Apply Times New Roman to the entire body */
+body {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Masthead (nav bar) text */
+.masthead {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Footer text */
+.page__footer footer {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Social icons section */
+.page__footer-follow ul.social-icons li strong {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Social icon links */
+.page__footer-follow ul.social-icons li a {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Apply Times New Roman to the entire body */
+body {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Masthead (nav bar) text */
+.masthead {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Footer text */
+.page__footer footer {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Social icons section */
+.page__footer-follow ul.social-icons li strong {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Social icon links */
+.page__footer-follow ul.social-icons li a {
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Copyright section in footer */
+.page__footer-copyright {
+  font-family: 'Times New Roman', Times, serif !important;
+}
