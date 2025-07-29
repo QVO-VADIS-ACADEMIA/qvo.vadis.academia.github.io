@@ -12,10 +12,6 @@ permalink: /submit-article/
   <script src="https://www.cognitoforms.com/f/seamless.js" data-key="B81YRHNjykqXH1gi05iZKw" data-form="3"></script>
 </div>
 
-<!-- Success Message -->
-<div id="success-message" style="display: none;">
-    <p>Your submission has been received. We are looking forward to reading your article!</p>
-</div>
 
 </div>
 
