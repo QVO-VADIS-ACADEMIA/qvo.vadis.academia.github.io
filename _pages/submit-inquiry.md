@@ -12,6 +12,4 @@ permalink: /submit-inquiry/
 <div class="submit-section" style="font-size: 20px;">
   <script src="https://www.cognitoforms.com/f/seamless.js" data-key="B81YRHNjykqXH1gi05iZKw" data-form="2"></script>
 </div>
-
-
 </div>

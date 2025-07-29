@@ -12,7 +12,6 @@ permalink: /submit-meme/
 <div class="submit-section" style="font-size: 20px;">
   <script src="https://www.cognitoforms.com/f/seamless.js" data-key="B81YRHNjykqXH1gi05iZKw" data-form="4"></script>
 </div>
-
 </div>
 
 
