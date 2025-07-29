@@ -4,7 +4,6 @@ title: "Tell Your Story Privately"
 permalink: /submit-story/
 ---
 <div style="padding: 40px;">
-
 <div style="font-size: 20px;">
   <p>We welcome anonymous or confidential accounts from all those who wish to speak truth to academia.   <br><br>  Share your story by email at <a href="mailto:qvo.vadis.academia@gmail.com?subject=[MEME]">qvo.vadis.academia@gmail.com</a>, or use the form below.</p>
 
