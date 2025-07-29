@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .page-title {
+    text-align: center;
+    font-size: 2.5em; /* Adjust as needed */
+    line-height: 1.2;
+  }
+</style>
+
 <div style="padding-left: 20px;">
 Got a rude awakening in academia? A meme that stings? Or an Ivory Tower fable that’ll make us cry? Or laugh? Or both?
 
