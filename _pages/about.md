@@ -30,7 +30,6 @@ Write anonymously (and give everybody witty nicknames) or use your own name. Be 
 
 Let your righteous indignation fuel your creativity. You are not alone.
 
-</div>
 <br><br>
 
 <b>Explore articles:</b>
@@ -39,4 +38,4 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/files/21572418/Les-Liaisons-dangereuses-JCU-Edition.pdf" target="_blank"> <i>"Les Liaisons Dangereuses"</i> (JCU Edition) - Crina Pungulescu
 
-
+</div>
