@@ -35,7 +35,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 <b>Explore articles:</b>
 
 <br><br>
-<a href="https://github.com/user-attachments/files/21669328/Les-Liaisons-dangereuses-JCU-Edition.pdf" target="_blank"> <i>"Les Liaisons Dangereuses"</i> (JCU Edition) - Crina Pungulescu
+<a href="https://github.com/user-attachments/files/21690214/Les-Liaisons-dangereuses-JCU-Edition.pdf" target="_blank"> <i>"Les Liaisons Dangereuses"</i> (JCU Edition) - Crina Pungulescu
 </a>
 
 </div>
