@@ -43,7 +43,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 <b>Explore memes:</b>
 
 <br><br>
-[Comrade, your contribution is voluntary… and mandatory!](https://github.com/user-attachments/assets/c70ade28-0805-4c4c-a470-1384ee9317e7)
+<a href="https://github.com/user-attachments/assets/c70ade28-0805-4c4c-a470-1384ee9317e7" target="_blank">Comrade, your contribution is voluntary… and mandatory!</a>
 
 <br><br>
 </div>
