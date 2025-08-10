@@ -39,10 +39,10 @@ Let your righteous indignation fuel your creativity. You are not alone.
 </a>
 
 <br><br>
-
+"
 <b>Explore memes:</b>
 <br><br>
-<a href="https://private-user-images.githubusercontent.com/223433442/476377196-c70ade28-0805-4c4c-a470-1384ee9317e7.png" target="_blank"> "Comrade, your contribution is voluntary… and mandatory!" 
+<a href="https://github.com/user-attachments/assets/c70ade28-0805-4c4c-a470-1384ee9317e7.png" target="_blank"> "Comrade, your contribution is voluntary… and mandatory!" 
 </a>
 
 <br><br>
