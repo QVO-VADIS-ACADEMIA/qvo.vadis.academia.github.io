@@ -47,7 +47,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/1c12671e-0673-4cdf-b771-81cea0a6bc2f" target="_blank">your contribution is voluntary… and mandatory.</a>
+<a href="https://github.com/user-attachments/assets/1c12671e-0673-4cdf-b771-81cea0a6bc2f" target="_blank">Your contribution is voluntary… and mandatory.</a>
 
 <br><br>
 </div>
