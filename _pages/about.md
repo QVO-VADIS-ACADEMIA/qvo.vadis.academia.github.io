@@ -43,7 +43,11 @@ Let your righteous indignation fuel your creativity. You are not alone.
 <b>Explore memes:</b>
 
 <br><br>
-<a href="https://github.com/user-attachments/assets/c70ade28-0805-4c4c-a470-1384ee9317e7" target="_blank">Our contracts are like snow: they melt if you touch them.</a>
+<a href="https://github.com/user-attachments/assets/c70ade28-0805-4c4c-a470-1384ee9317e7" target="_blank">We never said that. Also, we said that.</a>
+
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/1c12671e-0673-4cdf-b771-81cea0a6bc2f" target="_blank">your contribution is voluntary… and mandatory.</a>
 
 <br><br>
 </div>
