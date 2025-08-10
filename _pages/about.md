@@ -50,4 +50,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 <a href="https://github.com/user-attachments/assets/8a80bb6a-4633-45be-b45e-8eb4bd0adeb4" target="_blank">Your contribution is voluntary… and mandatory.</a>
 
 <br><br>
+
+<a href="https://github.com/user-attachments/assets/eba67061-c4b3-44db-a40f-3f7cfa47727c" target="_blank">Publish and perish.</a>
+
 </div>
