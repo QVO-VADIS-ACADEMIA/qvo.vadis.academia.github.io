@@ -47,10 +47,10 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/8a80bb6a-4633-45be-b45e-8eb4bd0adeb4" target="_blank">Your contribution is voluntary… and mandatory.</a>
+<a href="https://github.com/user-attachments/assets/8a80bb6a-4633-45be-b45e-8eb4bd0adeb4" target="_blank">Publish and perish.</a>
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/432094ff-1ca8-4d8c-8dd0-6d6da8519e70" target="_blank">Publish and perish.</a>
+<a href="https://github.com/user-attachments/assets/432094ff-1ca8-4d8c-8dd0-6d6da8519e70" target="_blank">Your contribution is voluntary… and mandatory.</a>
 
 </div>
