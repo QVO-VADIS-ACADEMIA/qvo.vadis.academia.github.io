@@ -47,7 +47,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/8a80bb6a-4633-45be-b45e-8eb4bd0adeb4" target="_blank">Publish and perish.</a>
+<a href="https://github.com/user-attachments/assets/911e9b5f-ca58-4445-8686-7eb416bfa7b8" target="_blank">Publish and perish.</a>
 
 <br><br>
 
