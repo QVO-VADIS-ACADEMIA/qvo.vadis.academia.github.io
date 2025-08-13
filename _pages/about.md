@@ -53,6 +53,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/432094ff-1ca8-4d8c-8dd0-6d6da8519e70" target="_blank">Your contribution is voluntary… and mandatory.</a>
 
+<br><br>
 
 <a href="https://github.com/user-attachments/assets/402b4548-3a8c-4568-9b3c-71da8b79e75f" target="_blank">I do not speak. I do not see. I do not hear. Yet I remain in power.</a>
 
