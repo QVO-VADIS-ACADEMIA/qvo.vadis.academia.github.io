@@ -2,5 +2,4 @@
 <img width="1024" height="1536" alt="perish" src="https://github.com/user-attachments/assets/32a40b09-530a-4a74-b297-2ab061a8c573" />
 <img width="1024" height="1536" alt="123" src="https://github.com/user-attachments/assets/432094ff-1ca8-4d8c-8dd0-6d6da8519e70" />
 <img width="1024" height="1536" alt="123" src="https://github.com/user-attachments/assets/5d6f95cc-8b48-4461-ac0b-791f5ff5d7e8" />
-![what offer](https://github.com/user-attachments/assets/ca8f624c-5f0e-4687-8df3-965e209151f3)
-
+<img width="1024" height="1536" alt="what offer" src="https://github.com/user-attachments/assets/ca8f624c-5f0e-4687-8df3-965e209151f3" />
