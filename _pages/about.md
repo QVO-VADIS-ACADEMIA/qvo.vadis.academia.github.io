@@ -59,6 +59,6 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/564447fb-cda5-4d02-8764-cf5dc238eb5f" target="_blank">Let your conscience be your guide: <i>Truth without fear!</i>.</a>
+<a href="https://github.com/user-attachments/assets/564447fb-cda5-4d02-8764-cf5dc238eb5f" target="_blank">Let your conscience be your guide: <i>Truth without fear!</i> </a>
 
 </div>
