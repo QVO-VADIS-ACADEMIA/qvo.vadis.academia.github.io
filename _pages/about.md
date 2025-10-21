@@ -63,7 +63,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/ca8f624c-5f0e-4687-8df3-965e209151f3" target="_blank"> <i>Streisand Effect</i> Starter Pack </a>
+<a href="https://github.com/user-attachments/assets/dcb627bc-d416-422a-a0e7-63c3016bc7eb" target="_blank"> <i>Streisand Effect</i> Starter Pack </a>
 
 </div>
 
