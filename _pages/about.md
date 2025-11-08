@@ -74,5 +74,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/dcb627bc-d416-422a-a0e7-63c3016bc7eb" target="_blank"> <i>Streisand Effect</i> Starter Pack </a>
 
-</div>
+<br><br>
 
+<b>Explore memes:</b>
+
+</div>
