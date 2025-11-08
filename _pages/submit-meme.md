@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Submit a Meme/Reel"
+title: "Submit a Meme or Reel"
 permalink: /submit-meme/
 ---
 <div style="padding: 40px;">
