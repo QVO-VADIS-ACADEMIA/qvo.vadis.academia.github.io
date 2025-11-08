@@ -82,4 +82,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/fb878676-7cdf-4472-94c3-d0d4b6d5e27b" target="_blank"> Nothing new under the sun... Are we accredited yet? </a>
 
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/5f46a161-ee48-4871-9577-7acc395a26a1" target="_blank"> You oughta know ... also because I told you so! </a>
+
 </div>
