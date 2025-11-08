@@ -76,6 +76,6 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<b>Explore memes:</b>
+<b>Explore reels:</b>
 
 </div>
