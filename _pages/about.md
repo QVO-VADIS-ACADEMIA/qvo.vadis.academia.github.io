@@ -84,7 +84,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/5f46a161-ee48-4871-9577-7acc395a26a1" target="_blank"><i>You oughta know </i>... also because I told you so! </a>You oughta know ... also because I told you so! </a>
+<a href="https://github.com/user-attachments/assets/5f46a161-ee48-4871-9577-7acc395a26a1" target="_blank"><i>You oughta, oughta know </i>... also because I told you so! </a>
 
 <br><br>
 
