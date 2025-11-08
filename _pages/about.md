@@ -88,6 +88,6 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href=https://github.com/user-attachments/assets/0740d4ed-9c31-4230-9e7e-5a1a738c680b" target="_blank"> Kick the kitten ... face the tiger! </a>
+<a href="https://github.com/user-attachments/assets/0740d4ed-9c31-4230-9e7e-5a1a738c680b" target="_blank"> Kick the kitten ... face the tiger! </a>
 
 </div>
