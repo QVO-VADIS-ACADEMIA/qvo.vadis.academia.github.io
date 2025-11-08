@@ -90,4 +90,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/0740d4ed-9c31-4230-9e7e-5a1a738c680b" target="_blank">Kick the kitten ... face the tiger! </a>
 
+<br><br>
+<a href="https://github.com/user-attachments/assets/aa7afc99-ce54-4701-a05b-a21587a5e420" target="_blank">Research actually ... paying for it would be terrific, thanks so much! </a>
+
 </div>
