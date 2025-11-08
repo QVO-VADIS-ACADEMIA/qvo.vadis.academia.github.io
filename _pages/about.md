@@ -72,7 +72,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/dcb627bc-d416-422a-a0e7-63c3016bc7eb" target="_blank"> <i>Streisand Effect</i> Starter Pack </a>
+<a href="https://github.com/user-attachments/assets/dcb627bc-d416-422a-a0e7-63c3016bc7eb" target="_blank"> target="_blank"> <i>Streisand Effect</i> Starter Pack </a>
 
 <br><br>
 
@@ -80,11 +80,11 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/fb878676-7cdf-4472-94c3-d0d4b6d5e27b" target="_blank"> Nothing new under the sun... Are we accredited yet? </a>
+<a href="https://github.com/user-attachments/assets/fb878676-7cdf-4472-94c3-d0d4b6d5e27b" target="_blank"> target="_blank"> <i>Nothing new under the sun</i>... Are we accredited yet? </a>
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/5f46a161-ee48-4871-9577-7acc395a26a1" target="_blank"> You oughta know ... also because I told you so! </a>
+<a href="https://github.com/user-attachments/assets/5f46a161-ee48-4871-9577-7acc395a26a1" target="_blank"> target="_blank"> <i>You oughta know </i>... also because I told you so! </a>You oughta know ... also because I told you so! </a>
 
 <br><br>
 
