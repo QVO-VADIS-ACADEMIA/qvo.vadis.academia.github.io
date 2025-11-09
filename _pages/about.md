@@ -97,4 +97,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 <br><br>
 
 <a href="https://github.com/user-attachments/assets/5d2ee05d-ed86-44a4-ac80-1d672ce76b32" target="_blank">The working conditions of the teachers are the learning conditions of the students. </a>
+
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/5a7e6ae4-cccc-4076-a44e-e015a85263b9" target="_blank">What lurks beheath the surface? </a>
 </div>
