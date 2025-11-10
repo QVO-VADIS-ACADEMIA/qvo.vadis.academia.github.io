@@ -100,7 +100,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/5a7e6ae4-cccc-4076-a44e-e015a85263b9" target="_blank">What lurks beheath the surface? </a>
+<a href="https://github.com/user-attachments/assets/5a7e6ae4-cccc-4076-a44e-e015a85263b9" target="_blank">What lurks deep down? </a>
 
 <br><br>
 
