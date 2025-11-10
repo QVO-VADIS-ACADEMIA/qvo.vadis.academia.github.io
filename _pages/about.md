@@ -101,4 +101,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 <br><br>
 
 <a href="https://github.com/user-attachments/assets/5a7e6ae4-cccc-4076-a44e-e015a85263b9" target="_blank">What lurks beheath the surface? </a>
+
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/142855da-c750-4952-a760-822c2bcb2c71" target="_blank"><i>Frankly, my dear </i>... </a>
 </div>
