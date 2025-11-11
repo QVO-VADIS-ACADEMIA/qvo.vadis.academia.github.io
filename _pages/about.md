@@ -96,13 +96,14 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/5d2ee05d-ed86-44a4-ac80-1d672ce76b32" target="_blank">The working conditions of the teachers are the learning conditions of the students. </a>
+<a href="https://github.com/user-attachments/assets/5d2ee05d-ed86-44a4-ac80-1d672ce76b32" target="_blank"><i>The working conditions of the teachers are the learning conditions of the students.</i> </a>
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/5a7e6ae4-cccc-4076-a44e-e015a85263b9" target="_blank">What lurks deep down? </a>
+<a href="https://github.com/user-attachments/assets/5a7e6ae4-cccc-4076-a44e-e015a85263b9" target="_blank">What lurks in the deep? </a>
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/142855da-c750-4952-a760-822c2bcb2c71" target="_blank"><i>Frankly, my dear </i>... </a>
+<a href="https://github.com/user-attachments/assets/726d11fa-f6d2-4150-89fb-691b176b181a" target="_blank"><i>Frankly, my dear </i>... </a>
+
 </div>
