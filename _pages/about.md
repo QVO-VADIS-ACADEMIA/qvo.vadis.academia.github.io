@@ -106,6 +106,6 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/726d11fa-f6d2-4150-89fb-691b176b181a" target="_blank"><i>Frankly, my dear </i>... </a>
 
-<a href="https://github.com/user-attachments/assets/0b5b368a-aeaa-4c88-b066-d83111fe2375"  target="_blank"><i>Index Librorum Prohibitorum </i></a>
+<a href="https://github.com/user-attachments/assets/2a8a562a-bdf2-48da-8cbb-279b65e308cc"  target="_blank"><i>Index Librorum Prohibitorum </i></a>
 
 </div>
