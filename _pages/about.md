@@ -110,4 +110,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/2a8a562a-bdf2-48da-8cbb-279b65e308cc"  target="_blank"><i>Index Librorum Prohibitorum </i></a>
 
+<br><br>
+<a href="https://github.com/user-attachments/assets/39a442c4-d1e6-4923-8359-29007aaa0193"  target="_blank"><i>The Writing on the Wall... </i></a>
+
 </div>
