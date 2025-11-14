@@ -116,6 +116,6 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/69f39a15-5003-4326-b6ac-8df708929e85"  target="_blank"><i>Thanks-asking</a>
+<a href="https://github.com/user-attachments/assets/69f39a15-5003-4326-b6ac-8df708929e85"  target="_blank">Thanks-asking</a>
 
 </div>
