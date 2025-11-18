@@ -124,6 +124,6 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/bc206a19-3d5d-481c-bad4-6d271a262b8b" target="_blank"><i>An hour in the life of a <i> LinkedIn </i> comment </a>
+<a href="https://github.com/user-attachments/assets/bc206a19-3d5d-481c-bad4-6d271a262b8b" target="_blank">An hour in the life of a <i> LinkedIn </i> comment </a>
 
 </div>
