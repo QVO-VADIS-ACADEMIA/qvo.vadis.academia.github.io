@@ -84,7 +84,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/5f46a161-ee48-4871-9577-7acc395a26a1" target="_blank"><i>You oughta, oughta know </i>... also because I told you so! </a>
+<a href="https://github.com/user-attachments/assets/5f46a161-ee48-4871-9577-7acc395a26a1" target="_blank"><i>You oughta know </i>... also because I told you so! </a>
 
 <br><br>
 
@@ -117,5 +117,9 @@ Let your righteous indignation fuel your creativity. You are not alone.
 <br><br>
 
 <a href="https://github.com/user-attachments/assets/69f39a15-5003-4326-b6ac-8df708929e85"  target="_blank">Thanks-asking</a>
+
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/db54beb7-e7c2-44f5-8b9f-e6827f784db6" target="_blank"><i>Jurassic</i> University</a>
 
 </div>
