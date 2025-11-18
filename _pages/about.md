@@ -122,4 +122,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/db54beb7-e7c2-44f5-8b9f-e6827f784db6" target="_blank"><i>Jurassic</i> University</a>
 
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/bc206a19-3d5d-481c-bad4-6d271a262b8b" target="_blank"><i>An hour in the life of a <i>LinkedIn</i> comment</a>
+
 </div>
