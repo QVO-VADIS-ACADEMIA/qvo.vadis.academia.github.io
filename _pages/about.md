@@ -130,4 +130,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/1946eed2-e327-4260-a849-19700764f1a5" target="_blank">If you want our fine learning, we deserve a fair earning. </a>
 
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/15d121e5-d92d-4e37-8339-03a2a5843c7f" target="_blank">What would happen if, in this day and age, learned men had the courage to speak up? </a>
+
 </div>
