@@ -134,4 +134,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/15d121e5-d92d-4e37-8339-03a2a5843c7f" target="_blank">What would happen if, in this day and age, learned men had the courage to speak up? </a>
 
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/279ad1b7-9917-4a01-baf4-8c24e2f72b1c" target="_blank">Leadership through Compliance: Enhancing Unity through Best Practices</a>
+
 </div>
