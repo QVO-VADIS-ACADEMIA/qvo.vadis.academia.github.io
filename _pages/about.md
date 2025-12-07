@@ -144,6 +144,6 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachmentsassets/2c3f3390-35b3-4ed8-9114-4e427521262e"target="_blank"><i>Four legs good, two legs bad.</i></a>
+<a href="https://github.com/user-attachmentsassets/2c3f3390-35b3-4ed8-9114-4e427521262e" target="_blank"><i>Four legs good, two legs bad.</i></a>
 
 </div>
