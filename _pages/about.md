@@ -142,4 +142,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/004d0519-35e1-4b6a-8c5e-5882d881d1bd" target="_blank">From the barricades of the past to the boardrooms of the present!</a>
 
+<br><br>
+
+<a href="https://github.com/user-attachmentsassets/2c3f3390-35b3-4ed8-9114-4e427521262e"target="_blank"><i>Four legs good, two legs bad.</i></a>
+
 </div>
