@@ -150,4 +150,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/2c3f3390-35b3-4ed8-9114-4e427521262e" target="_blank"><i>Four legs good, two legs bad.</i></a>
 
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/d933c450-d094-4b47-b272-73a4dd86c4c7" target="_blank">Rule one of accountability: blame whoever looks behind the curtain. </a>
+
 </div>
