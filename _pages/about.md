@@ -80,6 +80,10 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
+<a href="https://github.com/user-attachments/assets/6218edae-78f8-4513-a99f-fb3ec975c684"  target="_blank">Thr ruler still rules supreme. Now annointed by a leadership consultant. /a>
+
+<br><br>
+
 <b>Explore reels:</b>
 
 <br><br>
