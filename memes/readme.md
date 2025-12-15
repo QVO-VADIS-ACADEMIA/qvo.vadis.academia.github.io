@@ -5,6 +5,7 @@
 <img width="1024" height="1536" alt="what offer" src="https://github.com/user-attachments/assets/ca8f624c-5f0e-4687-8df3-965e209151f3" />
 <img width="1536" height="1024" alt="meme" src="https://github.com/user-attachments/assets/dcb627bc-d416-422a-a0e7-63c3016bc7eb" />
 <img width="1024" height="1536" alt="canvas(1)_Fotor" src="https://github.com/user-attachments/assets/e0103fa1-3a4a-467b-975c-b5173ae989df" />
+<img width="547" height="821" alt="Screenshot 2025-12-15 at 15 39 03" src="https://github.com/user-attachments/assets/6218edae-78f8-4513-a99f-fb3ec975c684" />
 
 
 https://github.com/user-attachments/assets/fb878676-7cdf-4472-94c3-d0d4b6d5e27b
