@@ -80,7 +80,11 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/6e509d1f-79d8-4d85-add8-6548953f73df"  target="_blank">Thr ruler still rules supreme. Now annointed by a leadership consultant. </a>
+<a href="https://github.com/user-attachments/assets/6e509d1f-79d8-4d85-add8-6548953f73df"  target="_blank">The ruler still rules supreme. Now annointed by a leadership consultant. </a>
+
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/2ee19e5a-4b9e-4eda-a6e0-b95852ad0528"  target="_blank">Oh, Socrates, what have we done? </a>
 
 <br><br>
 
