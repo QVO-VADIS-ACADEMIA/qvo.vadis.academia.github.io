@@ -84,7 +84,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/2ee19e5a-4b9e-4eda-a6e0-b95852ad0528"  target="_blank">Oh, Socrates, what have we done? </a>
+<a href="https://github.com/user-attachments/assets/c9891840-f04f-4f17-b015-19f9aad32241"  target="_blank">Oh, Socrates, what have we done? </a>
 
 <br><br>
 
