@@ -88,6 +88,10 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
+<a href="https://github.com/user-attachments/assets/c9891840-f04f-4f17-b015-19f9aad32241"  target="_blank"><i>The Banality of </i>For-Profit Education </a>"
+
+<br><br>
+
 <b>Explore reels:</b>
 
 <br><br>
