@@ -76,7 +76,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/e0103fa1-3a4a-467b-975c-b5173ae989df" target="_blank">Delighted to accept the <i>Fee-Fi-Fo-Fum Inaugural Whistleblowing Award</i> </a>
+<a href="https://github.com/user-attachments/assets/e0103fa1-3a4a-467b-975c-b5173ae989df" target="_blank">Delighted to accept the <i>Fee-Fi-Fo-Fum</i> Inaugural Whistleblowing Award </a>
 
 <br><br>
 
