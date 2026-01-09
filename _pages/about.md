@@ -88,7 +88,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/3c0fcd34-d8c2-4373-acaf-57397efe4451"  target="_blank"><i>The Banality of</i>  For-Profit 'Education' </a>
+<a href="https://github.com/user-attachments/assets/3c0fcd34-d8c2-4373-acaf-57397efe4451"  target="_blank"><i>The Banality of...</i>  For-Profit 'Education' </a>
 
 <br><br>
 
@@ -96,7 +96,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/fb878676-7cdf-4472-94c3-d0d4b6d5e27b" target="_blank"><i>Nothing new under the sun</i> ... Are we accredited yet? </a>
+<a href="https://github.com/user-attachments/assets/fb878676-7cdf-4472-94c3-d0d4b6d5e27b" target="_blank"><i>Nothing new under the sun</i>... Are we accredited yet? </a>
 
 <br><br>
 
@@ -104,11 +104,11 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/0740d4ed-9c31-4230-9e7e-5a1a738c680b" target="_blank">Kick the kitten ... face the tiger! </a>
+<a href="https://github.com/user-attachments/assets/0740d4ed-9c31-4230-9e7e-5a1a738c680b" target="_blank">Kick the kitten... face the tiger! </a>
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/aa7afc99-ce54-4701-a05b-a21587a5e420" target="_blank">Research <i> actually </i> ... paying researchers would be terrific, thanks so much! </a>
+<a href="https://github.com/user-attachments/assets/aa7afc99-ce54-4701-a05b-a21587a5e420" target="_blank">Research <i> actually</i>... paying researchers would be terrific, thanks so much! </a>
 
 <br><br>
 
