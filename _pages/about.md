@@ -172,6 +172,6 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/3046ccb6-575c-4b87-921c-3869a74adb67 target="_blank"><i>First they came for</i>  education</a>
+<a href="https://github.com/user-attachments/assets/3046ccb6-575c-4b87-921c-3869a74adb67" target="_blank"><i>First they came for</i>  education</a>
 
 </div>
