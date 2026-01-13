@@ -170,4 +170,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/c9eca02f-dd68-4952-84a0-8ef4194146ba" target="_blank"><i>The purpose of the system is what the system does.</i> </a>
 
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/3046ccb6-575c-4b87-921c-3869a74adb67 target="_blank"><i>First they came for</i>  education</a>
+
 </div>
