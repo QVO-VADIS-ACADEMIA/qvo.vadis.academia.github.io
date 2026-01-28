@@ -9,6 +9,8 @@
 <img width="750" height="680" alt="image" src="https://github.com/user-attachments/assets/c9891840-f04f-4f17-b015-19f9aad32241" />
 <img width="1536" height="1024" alt="banality-of-education" src="https://github.com/user-attachments/assets/3c0fcd34-d8c2-4373-acaf-57397efe4451" />
 <img width="3000" height="2720" alt="syllabus" src="https://github.com/user-attachments/assets/558a201d-58bd-4016-a4a0-748cdebb8f83" />
+![random_walk_on_reddit](https://github.com/user-attachments/assets/73ff696f-0503-4e06-98bf-62eacdc6c7ca)
+
 
 https://github.com/user-attachments/assets/fb878676-7cdf-4472-94c3-d0d4b6d5e27b
 
