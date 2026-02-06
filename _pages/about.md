@@ -112,7 +112,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/aa7afc99-ce54-4701-a05b-a21587a5e420" target="_blank">Research <i> actually</i>... paying researchers would be terrific, thanks so much! </a>
+<a href="https://github.com/user-attachments/assets/8e464a92-8101-4b2b-85b2-f709a05edd2a" target="_blank">Research <i> actually</i>... paying researchers would be terrific, thanks so much! </a>
 
 <br><br>
 
