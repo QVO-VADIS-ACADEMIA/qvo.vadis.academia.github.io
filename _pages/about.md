@@ -44,10 +44,14 @@ Let your righteous indignation fuel your creativity. You are not alone.
 <b>Explore articles:</b>
 
 <br><br>
-<a href="https://github.com/user-attachments/files/25144048/1.EN.Email.Files.9.08.2025.pdf" target="_blank"> <i>"Les Liaisons Dangereuses"</i> (JCU Edition)
-</a>
+<a href="https://github.com/user-attachments/files/25144048/1.EN.Email.Files.9.08.2025.pdf" target="_blank"> <i>"Les Liaisons Dangereuses"</i> (JCU Edition)</a>
 
 <br><br>
+
+<a href="https://github.com/user-attachments/files/25144049/1.IT.Corrispondenza.Email.pdf" target="_blank"> <i>"Les Liaisons Dangereuses"</i> (Edizione JCU)</a>
+
+<br><br>
+
 
 <b>Explore memes:</b>
 
