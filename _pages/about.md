@@ -44,7 +44,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 <b>Explore articles:</b>
 
 <br><br>
-<a href="https://github.com/user-attachments/files/21912610/Les-Liaisons-dangereuses-JCU-Edition.pdf" target="_blank"> <i>"Les Liaisons Dangereuses"</i> (JCU Edition)
+<a href="https://github.com/user-attachments/files/25144048/1.EN.Email.Files.9.08.2025.pdf" target="_blank"> <i>"Les Liaisons Dangereuses"</i> (JCU Edition)
 </a>
 
 <br><br>
