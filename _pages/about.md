@@ -45,18 +45,18 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/files/25146166/Letter.Trustees.pdf" target="_blank"> <i>Open letter to the Board of Trustees of John Cabot University in Rome</a>
+<a href="https://github.com/user-attachments/files/25146166/Letter.Trustees.pdf" target="_blank"> <i>Open letter to the Board of Trustees of John Cabot University in Rome </a>
 
 <br><br>
 
-<a href="https://github.com/user-attachments/files/25144808/Lettera.Consiglio.Fiduciari.pdf" target="_blank"> <i>Lettera aperta al Consiglio dei Fiduciari della John Cabot University di Roma</a>
+<a href="https://github.com/user-attachments/files/25144808/Lettera.Consiglio.Fiduciari.pdf" target="_blank"> <i>Lettera aperta al Consiglio dei Fiduciari della John Cabot University di Roma </a>
 
 <br><br>
-<a href="https://github.com/user-attachments/files/25144048/1.EN.Email.Files.9.08.2025.pdf" target="_blank"> <i>Les Liaisons Dangereuses</i> (JCU Edition)</a>
+<a href="https://github.com/user-attachments/files/25144048/1.EN.Email.Files.9.08.2025.pdf" target="_blank"> <i>Les Liaisons Dangereuses</i> (JCU Edition) </a>
 
 <br><br>
 
-<a href="https://github.com/user-attachments/files/25144049/1.IT.Corrispondenza.Email.pdf" target="_blank"> <i>Les Liaisons Dangereuses</i> (Edizione JCU)</a>
+<a href="https://github.com/user-attachments/files/25144049/1.IT.Corrispondenza.Email.pdf" target="_blank"> <i>Les Liaisons Dangereuses</i> (Edizione JCU) </a>
 
 <br><br>
 
@@ -64,7 +64,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 <b>Explore memes:</b>
 
 <br><br>
-<a href="https://github.com/user-attachments/assets/c70ade28-0805-4c4c-a470-1384ee9317e7" target="_blank">We never said that. Also, we said that.</a>
+<a href="https://github.com/user-attachments/assets/c70ade28-0805-4c4c-a470-1384ee9317e7" target="_blank">We never said that. Also, we said that. </a>
 
 <br><br>
 
@@ -72,7 +72,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/432094ff-1ca8-4d8c-8dd0-6d6da8519e70" target="_blank">Your contribution is voluntary… and mandatory.</a>
+<a href="https://github.com/user-attachments/assets/432094ff-1ca8-4d8c-8dd0-6d6da8519e70" target="_blank">Your contribution is voluntary… and mandatory. </a>
 
 <br><br>
 
