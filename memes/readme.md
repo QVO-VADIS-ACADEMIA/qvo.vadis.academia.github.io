@@ -9,6 +9,7 @@
 <img width="1536" height="1024" alt="banality-of-education" src="https://github.com/user-attachments/assets/3c0fcd34-d8c2-4373-acaf-57397efe4451" />
 <img width="3000" height="2720" alt="syllabus" src="https://github.com/user-attachments/assets/a925b0cd-03bf-4a39-8863-d18adfc08bf4" />
 <img width="2720" height="3000" alt="random_walk_on_reddit" src="https://github.com/user-attachments/assets/73ff696f-0503-4e06-98bf-62eacdc6c7ca" />
+![education_matters](https://github.com/user-attachments/assets/06b8c675-c5a5-4f9e-bd40-61563c77045b)
 
 
 https://github.com/user-attachments/assets/fb878676-7cdf-4472-94c3-d0d4b6d5e27b
