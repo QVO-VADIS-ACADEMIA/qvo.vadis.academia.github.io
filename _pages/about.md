@@ -142,7 +142,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/5a7e6ae4-cccc-4076-a44e-e015a85263b9" target="_blank">What lurks in the deep? </a>
+<a href="https://github.com/user-attachments/assets/5a7e6ae4-cccc-4076-a44e-e015a85263b9" target="_blank">Deep Waters of Silence </a>
 
 <br><br>
 
