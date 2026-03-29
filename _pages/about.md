@@ -114,7 +114,7 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/1b5f68f3-bf3e-47f5-876a-d6b405d97e75"  target="_blank">How and when does education genuinely transform society? </a>
+<a href="https://github.com/user-attachments/assets/b31f6e07-5d47-4b4c-9b19-da1841179cbc"  target="_blank">How and when does education genuinely transform society? </a>
 
 <br><br>
 
