@@ -202,6 +202,6 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<a href="https://github.com/user-attachments/assets/b31f6e07-5d47-4b4c-9b19-da1841179cbc" target="_blank"><i>EGO PROFESSOR SUM</i>  </a>
+<a href="https://github.com/user-attachments/assets/25cfe4a4-8357-4b25-8633-7b5609443947" target="_blank"><i>EGO PROFESSOR SUM</i>  </a>
 
 </div>
