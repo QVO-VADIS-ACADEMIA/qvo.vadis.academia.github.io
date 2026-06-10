@@ -204,4 +204,8 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <a href="https://github.com/user-attachments/assets/25cfe4a4-8357-4b25-8633-7b5609443947" target="_blank"><i>EGO PROFESSOR SUM</i>  </a>
 
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/bde71c42-1414-4e30-a3c5-e2e50ff68e7f" target="_blank"><i> You guys are getting paid </i> for research work?!? </a>
+
 </div>
