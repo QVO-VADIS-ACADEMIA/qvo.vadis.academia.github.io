@@ -41,6 +41,12 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
+<b>Editor's Pick:</b>
+
+<a href="https://github.com/user-attachments/assets/bde71c42-1414-4e30-a3c5-e2e50ff68e7f" target="_blank"><i> You guys are getting paid </i> for research work?!? </a>
+
+<br><br>
+
 <b>Explore articles:</b>
 
 <br><br>
@@ -65,9 +71,6 @@ Let your righteous indignation fuel your creativity. You are not alone.
 
 <br><br>
 
-<b>Editor's Pick:</b>
-
-<a href="https://github.com/user-attachments/assets/bde71c42-1414-4e30-a3c5-e2e50ff68e7f" target="_blank"><i> You guys are getting paid </i> for research work?!? </a>
 
 <b>Explore memes:</b>
 
